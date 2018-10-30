@@ -39,7 +39,7 @@ namespace PrintPageLayout
         #region Export to PDF
 
         /// <summary>
-        ///     Export to PDF on Button click
+        /// Export to PDF on Button click
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
