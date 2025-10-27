@@ -36,4 +36,4 @@ private void Exportbutton_Click(object sender, EventArgs e)
 }
 ```
 
-Take a moment to peruse the [WinForms GridControl - PDF Exporting](https://help.syncfusion.com/windowsforms/grid-control/exporting#pdf-exporting) documentation, where you can find about GridControl with code examples.
+Take a moment to peruse the [WinForms GridControl - PDF Exporting](https://help.syncfusion.com/windowsforms/grid-control/exporting#pdf-exporting) documentation, where you can find about PDF exporting with code examples.
